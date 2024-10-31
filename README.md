@@ -8,11 +8,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FMU** e apaixon
 - 💼 [LinkedIn](https://www.linkedin.com/in/yurefarias/)
 - 📚 [Dio](https://web.dio.me/users/yureyure2004?tab=achievements)
 
-### O que estou estudando
-- 🎓 Preparando-me para a certificação **AZ-900** (Microsoft Azure Fundamentals)
-- 🐳 Estudando **Docker** para melhorar minhas habilidades em DevOps
-- 📚 Focando meus estudos em **bancos de dados** e **nuvem**
-
 ### Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=azure,docker,javascript,css,html,c,python,git,github,mysql,vscode,windows&perline=9)](https://skillicons.dev)
 
